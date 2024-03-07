@@ -1,3 +1,12 @@
+/******************************************************************
+  Template Name: Ogani
+  Description:  Ogani eCommerce  HTML Template
+  Author: Colorlib
+  Author URI: https://colorlib.com
+  Version: 1.0
+  Created: Colorlib
+******************************************************************/
+
 /*------------------------------------------------------------------
 [Table of contents]
 
@@ -21,51 +30,51 @@
 /* Template default CSS
 /*----------------------------------------*/
 
-#HeaderAllTab html,
-#HeaderAllTab body {
+html,
+body {
 	height: 100%;
 	font-family: "Cairo", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 }
 
-#HeaderAllTab h1,
-#HeaderAllTab h2,
-#HeaderAllTab h3,
-#HeaderAllTab h4,
-#HeaderAllTab h5,
-#HeaderAllTab h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	margin: 0;
 	color: #111111;
 	font-weight: 400;
 	font-family: "Cairo", sans-serif;
 }
 
-#HeaderAllTab h1 {
+h1 {
 	font-size: 70px;
 }
 
-#HeaderAllTab h2 {
+h2 {
 	font-size: 36px;
 }
 
-#HeaderAllTab h3 {
+h3 {
 	font-size: 30px;
 }
 
-#HeaderAllTab h4 {
+h4 {
 	font-size: 24px;
 }
 
-#HeaderAllTab h5 {
+h5 {
 	font-size: 18px;
 }
 
-#HeaderAllTab h6 {
+h6 {
 	font-size: 16px;
 }
 
-#HeaderAllTab p {
+p {
 	font-size: 16px;
 	font-family: "Cairo", sans-serif;
 	color: #6f6f6f;
@@ -74,26 +83,26 @@
 	margin: 0 0 15px 0;
 }
 
-#HeaderAllTab img {
+img {
 	max-width: 100%;
 }
 
-#HeaderAllTab input:focus,
-#HeaderAllTab select:focus,
-#HeaderAllTab button:focus,
-#HeaderAllTab textarea:focus {
+input:focus,
+select:focus,
+button:focus,
+textarea:focus {
 	outline: none;
 }
 
-#HeaderAllTab a:hover,
-#HeaderAllTab a:focus {
+a:hover,
+a:focus {
 	text-decoration: none;
 	outline: none;
-	color: #2C9D59;
+	color: #ffffff;
 }
 
-#HeaderAllTab ul,
-#HeaderAllTab ol {
+ul,
+ol {
 	padding: 0;
 	margin: 0;
 }
@@ -159,17 +168,6 @@
 	text-transform: uppercase;
 	font-weight: 700;
 	background: #1F814C;
-	letter-spacing: 2px;
-}
-
-.primary-btn2 {
-	display: inline-block;
-	font-size: 14px;
-	padding: 15px 28px 15px;
-	color: #ffffff;
-	text-transform: uppercase;
-	font-weight: 700;
-	background: #202723;
 	letter-spacing: 2px;
 }
 
