@@ -134,6 +134,7 @@
 .spad {
 	padding-top: 100px;
 	padding-bottom: 100px;
+	
 }
 
 .text-white h1,
@@ -2073,6 +2074,8 @@
 .checkout {
 	padding-top: 80px;
 	padding-bottom: 60px;
+	background-position: center center;
+	display: flex;
 }
 
 .checkout h6 {
